@@ -6,7 +6,7 @@
 <body>
 	<div id="map" style="width:750px;height:350px;"></div>
 
-	<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=abe95247e3984ef7bb25dce7fbe97cd6"></script>
+	<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=e7b36cf432541caeea1a56810431e5f0"></script>
 	<script>
 		var mapContainer = document.getElementById('map'); // 지도를 표시할 div 
 		var mapOption = {
